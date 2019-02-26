@@ -1,10 +1,10 @@
-# London Cafe's / Neighborhood Map (React)
+
 
 This is my final project in my nanodegree by Udacity. This project is coded in ReactJS.
 
 ## Purpose
 
-This app functionality is to locate cafe's in London by map. It also includes a search functionality that filters out the markers by query. Beside that it's made with a11y in mind and offline-first approach.
+This app functionality is to locate coffee shops in Atlanta by map. It also includes a search functionality that filters out the markers by query. Beside that it's made with a11y in mind and offline-first approach.
 
 ## How to install
 
